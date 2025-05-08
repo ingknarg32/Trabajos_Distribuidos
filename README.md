@@ -1,6 +1,6 @@
 # Web Crawler y Generador de Nube de Palabras
 
-Este proyecto consiste en un web crawler que extrae citas de [quotes.toscrape.com](https://quotes.toscrape.com/) y genera una nube de palabras a partir de ellas.
+Este proyecto consiste en un web crawler que extrae citas de [quotes.toscrape.com](https://quotes.toscrape.com/) y genera una nube de palabras a partir de ellas
 
 ## Características
 
